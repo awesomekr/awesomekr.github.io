@@ -1,0 +1,15 @@
+{
+	"version": 1.0,
+	"server": {
+		"version": 1.0,
+		"isRunning": true
+	},
+	"clientServer": {
+		"version": 1.0,
+		"isRunning": true
+	},
+	"client": {
+		"version": 1.0,
+		"isRunning": true
+	}
+}
